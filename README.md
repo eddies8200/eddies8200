@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddies8200
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web design coding
-- 💞️ I’m looking to collaborate on learning vSC
+- 💞️ I’m looking to collaborate on learning HTML and CSS
 - 📫 How to reach me 
 
 <!---
